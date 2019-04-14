@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DataSource>
+    <id>ds01</id>
+    <host>127.0.0.1</host>
+    <port>5432</port>
+    <database>gw</database>
+    <username>postgres</username>
+    <password>zaq12wsx</password>
+</DataSource>
